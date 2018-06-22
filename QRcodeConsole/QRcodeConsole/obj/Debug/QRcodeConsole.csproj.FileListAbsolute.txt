@@ -1,0 +1,7 @@
+E:\studylitleByLitle\QRcode\QRcodeConsole\QRcodeConsole\bin\Debug\QRcodeConsole.exe.config
+E:\studylitleByLitle\QRcode\QRcodeConsole\QRcodeConsole\bin\Debug\QRcodeConsole.exe
+E:\studylitleByLitle\QRcode\QRcodeConsole\QRcodeConsole\bin\Debug\QRcodeConsole.pdb
+E:\studylitleByLitle\QRcode\QRcodeConsole\QRcodeConsole\bin\Debug\ThoughtWorks.QRCode.dll
+E:\studylitleByLitle\QRcode\QRcodeConsole\QRcodeConsole\obj\Debug\QRcodeConsole.csprojResolveAssemblyReference.cache
+E:\studylitleByLitle\QRcode\QRcodeConsole\QRcodeConsole\obj\Debug\QRcodeConsole.exe
+E:\studylitleByLitle\QRcode\QRcodeConsole\QRcodeConsole\obj\Debug\QRcodeConsole.pdb
